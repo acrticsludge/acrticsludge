@@ -1,5 +1,5 @@
 # 💫 About Me:
-im  studying in PES University<br>im learning fullstack webdev<br>im looking for help with project suggestions
+First Year College Student<br>Im learning fullstack webdev<br>Im looking for help with project suggestions
 
 
 ## 🌐 Socials:
