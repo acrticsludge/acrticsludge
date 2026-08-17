@@ -1,5 +1,5 @@
 # 💫 About Me:
-First Year College Student<br>Im learning fullstack webdev<br>Im looking for help with project suggestions
+Second Year College Student<br>Im learning fullstack webdev<br>Im looking for help with project suggestions
 
 
 ## 🌐 Socials:
